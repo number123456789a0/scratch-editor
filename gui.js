@@ -149,7 +149,7 @@ function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterat
 
 
 var onClickLogo = function onClickLogo() {
-  window.location = 'https://scratch.mit.edu';
+  window.location = 'https://number123456789a0.github.io/scratch';
 };
 
 var handleTelemetryModalCancel = function handleTelemetryModalCancel() {
